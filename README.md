@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tom-pham
 - 👀 I’m interested in data analysis and data visualization
-- 🌱 I’m currently learning to create R packages
+- 🌱 I’m currently learning Python!
 - 📫 You can reach me at thtupham@gmail.com
 
 <!---
